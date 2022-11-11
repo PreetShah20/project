@@ -24,6 +24,17 @@ div{
     text-decoration-color: #990587;
 }
 
+.vehical_id{
+  width :25%;
+  border : 2px ;
+  border-radius: 4px;
+  margin: 2px 0;
+  outline: none;
+  padding: 10px;
+  box-sizing: border-box;
+  
+}
+
 #vehi-numm{
     /* position: absolute;
     right: 55%; */
